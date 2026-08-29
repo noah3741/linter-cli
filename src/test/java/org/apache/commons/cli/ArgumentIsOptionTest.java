@@ -70,3 +70,5 @@ class ArgumentIsOptionTest {
 }
 
 // 3f9818
+
+// bc5980
